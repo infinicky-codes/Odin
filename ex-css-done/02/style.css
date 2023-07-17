@@ -1,0 +1,18 @@
+.class {
+    background-color: hsl(0, 80%, 77%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cool, #four {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(165, 240, 165);
+    font-weight: bold;
+}

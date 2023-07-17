@@ -1,0 +1,6 @@
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = git@github.com:infinicky-codes/rock-paper-scissors.git
+[submodule "recipes"]
+	path = recipes
+	url = git@github.com:infinicky-codes/recipes.git
